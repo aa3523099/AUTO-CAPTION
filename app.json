@@ -8,9 +8,9 @@
         "Caption",
         "Bot"
     ],
-    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/PR0FESS0R-99/AutoCaption-BoT",
-    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "website": "https://t.me/Filmy_Men",
+    "repository": "https://github.com/SANDY-FM/AUTO-CAPTION",
+    "success_url": "https://t.me/Filmy_Men",
     "env": {
         "app_id": {
             "description": "Your APP ID From my.telegram.org or @MT_MyTelegramOrg_Bot",
